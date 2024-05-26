@@ -1,0 +1,4 @@
+Uma stack(pilha) é uma das estrutura de dados que contém uma lista de elementos. Uma stack funciona com base no princípio LIFO "Last In, First Out"(Último a entrar, primeiro a sair), o elemento mais recente é o primeiro a ser removido.
+
+Funções principais PUSH = COLOCAR; POP = RETIRAR;
+Push coloca um elemento no topo da pilha, enquanto POP retira do topo da pilha.
