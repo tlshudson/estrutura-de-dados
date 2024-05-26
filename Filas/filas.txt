@@ -1,0 +1,8 @@
+Filas são estruturas de dados bastantes utilizadas no desenvolvimento: O primeiro elemento a ser adicionado é o primeiro elemento a ser retirado. Dessa maneira elementos inseridos no fim serão retirados por último. A referência de memória ocorre através do ínicio, sendo o primeiro e último a fila zerada e de acordo com que são inseridos dados, estes são movidos para o fim da fila e de acordo com retirada do primeiro a memória é referenciada sequencialmente até o último até que se zere a fila.
+Exemplo fila de banco. 
+Leonidas é o 1° e último
+Leonidas é o 1°, Mamaco é o 2° e último
+Leonidas é o 1°, Mamaco é o 2° e Girafo é o 3° e último
+Leonidas é removido, 1° é Mamaco e o 2° e último é o Girafo até que a fila seja esvaziada.
+
+Fila possui o método FIFO = First in, First Out (Primeiro a entrar, primeiro a sair);
